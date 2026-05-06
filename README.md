@@ -29,7 +29,5 @@ Este proyecto consiste en el diseño e implementación de una base de datos rela
 #Tecnologías utilizadas
 - SQL Server
 - SQL Server Management Studio
-
-SELECT nombre_jugador 
 FROM Jugadores
 ORDER BY nombre_jugador ASC;
